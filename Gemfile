@@ -13,6 +13,10 @@ gem 'hirb'
 gem 'jquery-rails'
 gem 'stock_quote'
 gem 'twitter-bootstrap-rails'
+# gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+# gem 'autoprefixer-rails', '~> 9.6', '>= 9.6.1'
+# gem 'popper_js', '~> 1.14', '>= 1.14.5'
+# gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
