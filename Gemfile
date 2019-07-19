@@ -13,6 +13,7 @@ gem 'hirb'
 gem 'jquery-rails'
 gem 'stock_quote'
 gem 'twitter-bootstrap-rails'
+gem "font-awesome-rails"
 # gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 # gem 'autoprefixer-rails', '~> 9.6', '>= 9.6.1'
 # gem 'popper_js', '~> 1.14', '>= 1.14.5'
