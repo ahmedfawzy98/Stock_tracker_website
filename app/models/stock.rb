@@ -8,7 +8,7 @@ class Stock < ApplicationRecord
 
   def self.new_from_lookup(ticker_symbol)
     if StockQuote::Stock.api_key.nil?
-      StockQuote::Stock.new(api_key: ENV['api_key'])
+      StockQuote::Stock.new(api_key: API_KEY['api_key'])
     end
     begin
       stock = StockQuote::Stock.quote(ticker_symbol)
