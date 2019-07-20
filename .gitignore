@@ -31,4 +31,5 @@
 /config/master.key
 
 .idea
+/config/application.yml
 /config/initializers/app_config.rb
