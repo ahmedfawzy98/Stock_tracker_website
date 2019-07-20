@@ -31,4 +31,6 @@
 /config/master.key
 
 .idea
+
+
 /config/application.yml
