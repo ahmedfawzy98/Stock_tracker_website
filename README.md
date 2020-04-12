@@ -1,24 +1,18 @@
-# README
+# Stock-Tracker-Website
+This is a simple stock tracker website as a hobby project aimed to learn Ruby on Rails, Bootstrap and honing web development skills.\
+[Stock-Tracker](https://finance-tracker-ahmed.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Features
+* Dashboard page of user to track the tracked stocks.
+* Search board to add new stocks to the dashboard.
+* Search board to friends, add to my friends and view their profiles.
+* Edit user's profile and account cancellation.
 
-* Ruby version
+## Built with
+[Ruby on Rails](https://rubyonrails.org/)\
+[Bootstrap](https://getbootstrap.com)
 
-* System dependencies
+## Deployment
+[Heroku](https://heroku.com/)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
